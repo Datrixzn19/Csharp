@@ -1,0 +1,14 @@
+/home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/CodingCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/CodingCS.AssemblyInfoInputs.cache
+/home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/CodingCS.AssemblyInfo.cs
+/home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/CodingCS.csproj.CoreCompileInputs.cache
+/home/datrixzn19/Desktop/Csharp/CodingCS/bin/Debug/net9.0/CodingCS
+/home/datrixzn19/Desktop/Csharp/CodingCS/bin/Debug/net9.0/CodingCS.deps.json
+/home/datrixzn19/Desktop/Csharp/CodingCS/bin/Debug/net9.0/CodingCS.runtimeconfig.json
+/home/datrixzn19/Desktop/Csharp/CodingCS/bin/Debug/net9.0/CodingCS.dll
+/home/datrixzn19/Desktop/Csharp/CodingCS/bin/Debug/net9.0/CodingCS.pdb
+/home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/CodingCS.dll
+/home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/refint/CodingCS.dll
+/home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/CodingCS.pdb
+/home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/CodingCS.genruntimeconfig.cache
+/home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/ref/CodingCS.dll
