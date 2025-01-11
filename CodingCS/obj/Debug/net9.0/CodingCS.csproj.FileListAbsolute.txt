@@ -12,3 +12,4 @@
 /home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/CodingCS.pdb
 /home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/CodingCS.genruntimeconfig.cache
 /home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/ref/CodingCS.dll
+/home/datrixzn19/Desktop/Csharp/CodingCS/obj/Debug/net9.0/CodingCS.sourcelink.json

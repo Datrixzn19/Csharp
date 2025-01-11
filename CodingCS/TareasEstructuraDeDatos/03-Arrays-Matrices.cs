@@ -1,6 +1,6 @@
-using System;
+/* using System;
 
-// Definición de la cl
+
     // Propiedades de la clase Producto
 public class Producto
 {
@@ -43,4 +43,4 @@ public class Result
             Console.WriteLine($"- {precio}");
         }
     }
-} 
+}  */

@@ -1,4 +1,4 @@
-using System;
+/* using System;
 
 // Clase para representar un Círculo
 public class Circulo
@@ -45,4 +45,4 @@ class Program
         Console.WriteLine($"Área del Rectángulo: {rectangulo.CalcularArea()}");
         Console.WriteLine($"Perímetro del Rectángulo: {rectangulo.CalcularPerimetro()}");
     }
-}
+} */
