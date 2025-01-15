@@ -1,5 +1,5 @@
 ﻿using System;
-using EjerciciosDeListas;
+using dowhile;
 //using IfElse;
 
 namespace programaPrincipal
@@ -10,7 +10,7 @@ namespace programaPrincipal
         static void Main(string[] args)
         {
             //ex. BucleIf.ifelse(); use the nameclass and the method
-            EjerciciosSimples.Ejercicio5();
+            Dowhile.ejercicio1();
         }
 
     }
