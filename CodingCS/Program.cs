@@ -1,6 +1,6 @@
 ﻿using System;
-using dowhile;
-//using IfElse;
+using listasenlazadasPT1;
+using listasenlazadasPT2;
 
 namespace programaPrincipal
 {
@@ -9,8 +9,17 @@ namespace programaPrincipal
 
         static void Main(string[] args)
         {
-            //ex. BucleIf.ifelse(); use the nameclass and the method
-            Dowhile.ejercicio1();
+        //semena 6 ejercicio 1
+            listasenlazadasPT1.Lista.Ejecutar();
+
+        //Semana 6 ejercicio 2 
+            ListaEnlazada.Ejecutar();
+
+
+
+        //nombre de clase y metodo
+
+          
         }
 
     }
