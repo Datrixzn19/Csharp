@@ -1,5 +1,5 @@
 ﻿using System;
-using semana10conjuntos;
+using TareaDiccionario;
 
 namespace programaPrincipal
 {
@@ -9,7 +9,8 @@ namespace programaPrincipal
         static void Main(string[] args)
         {
     
-            Conjuntos.ejercicio();
+            Diccionario.traductor();
+
 
                       
         }
