@@ -38,11 +38,11 @@ namespace TareaDiccionario
             };
 
 
-
-            bool programaActivo = true;
+            bool programaActivo = true;//para entrar directamente al do while
 
             do
             {
+                //menu con las opciones
                 Console.WriteLine("\n=============================================");
                 Console.WriteLine("BIENVENIDOS A MI TRADUCTOR ESPAÑOL - INGLES");
                 System.Console.WriteLine("Elije una opción");
@@ -53,10 +53,6 @@ namespace TareaDiccionario
 
                 string? opc = Console.ReadLine();
                 int opcion = int.Parse(opc);
-
-
-
-
 
 
 //opc 1
@@ -95,10 +91,10 @@ namespace TareaDiccionario
                 }
                 else if(opcion == 2)//esta opcion agrega key y value 
                 {
-                    
+                    //pedimos la palabra
                     System.Console.WriteLine("Agrege una palabra en español al diccionario");
                     string? palabraInput = Console.ReadLine();
-
+                    //pedimos el significado
                     System.Console.WriteLine($"Agrege el significado en inglés de {palabraInput}");
                     string? significadoInput = Console.ReadLine();
 
@@ -131,46 +127,13 @@ namespace TareaDiccionario
                 {
                     System.Console.WriteLine("No has ingresado una opcion correcta");
                 }
+
             }
             while(programaActivo == true);
 
 
 
-            System.Console.WriteLine("Programa finalizado");//se da al elegir la opcion 4
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            System.Console.WriteLine("Programa finalizado");//llegamos aqui si se elige la opcion 4
 
         }
     }
